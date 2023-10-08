@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/finance_app/static/css/main.8f61e143.css",
+    "main.js": "/finance_app/static/js/main.be54c298.js",
+    "static/js/787.4b272cee.chunk.js": "/finance_app/static/js/787.4b272cee.chunk.js",
+    "static/media/happy-woman-paying-cafe-by-credit-card.jpg": "/finance_app/static/media/happy-woman-paying-cafe-by-credit-card.95c68ee7d53487c5e67a.jpg",
+    "static/media/insurance-agent-working-during-site-car-accident-claim-process-people-car-insurance-claim.jpg": "/finance_app/static/media/insurance-agent-working-during-site-car-accident-claim-process-people-car-insurance-claim.1eacf66c83eca9b14137.jpg",
+    "static/media/family-with-daughter-holding-passports-luggage-ready-travel.jpg": "/finance_app/static/media/family-with-daughter-holding-passports-luggage-ready-travel.6663e81f0a129d71d3fc.jpg",
+    "static/media/5995357-removebg.png": "/finance_app/static/media/5995357-removebg.420dd24efde4111db9d1.png",
+    "static/media/5573507_2920019.jpg": "/finance_app/static/media/5573507_2920019.0992cbc02fccd2231036.jpg",
+    "static/media/checkList1.jpg": "/finance_app/static/media/checkList1.bb22e74e2f2149f0acf7.jpg",
+    "static/media/reviewImage.jpg": "/finance_app/static/media/reviewImage.5f7991c1fdfa2ef6385c.jpg",
+    "static/media/car-insurance_7830754.png": "/finance_app/static/media/car-insurance_7830754.73061652467a16f4816d.png",
+    "static/media/health-insurance_913452.png": "/finance_app/static/media/health-insurance_913452.bba62215af515dcf44c0.png",
+    "static/media/lease_8411290.png": "/finance_app/static/media/lease_8411290.b1bd4b30bc224d61a9c8.png",
+    "static/media/credit_2139213.png": "/finance_app/static/media/credit_2139213.4f5bc59539a380bc27cf.png",
+    "static/media/insurance_1141398.png": "/finance_app/static/media/insurance_1141398.85f9c36b4390c20f4867.png",
+    "static/media/complete_7729513.png": "/finance_app/static/media/complete_7729513.d47a8cbb0dc9b2b2a6ed.png",
+    "static/media/banking-system_3683308.png": "/finance_app/static/media/banking-system_3683308.84cf632ec4956e96a515.png",
+    "static/media/dollar_9202110.png": "/finance_app/static/media/dollar_9202110.568b37edba0e9926b88b.png",
+    "static/media/payment_4586479.png": "/finance_app/static/media/payment_4586479.e24f111023b6c5da927f.png",
+    "static/media/mail_646179.png": "/finance_app/static/media/mail_646179.1fc20537b9a25bc274f3.png",
+    "index.html": "/finance_app/index.html",
+    "main.8f61e143.css.map": "/finance_app/static/css/main.8f61e143.css.map",
+    "main.be54c298.js.map": "/finance_app/static/js/main.be54c298.js.map",
+    "787.4b272cee.chunk.js.map": "/finance_app/static/js/787.4b272cee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f61e143.css",
+    "static/js/main.be54c298.js"
+  ]
+}
